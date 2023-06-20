@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/madov1/static/css/main.c42134e0.css",
+    "main.js": "/madov1/static/js/main.4c35f577.js",
+    "static/media/2banner.jpg": "/madov1/static/media/2banner.8035500b58d40da4642a.jpg",
+    "static/media/chhola.jpg": "/madov1/static/media/chhola.6bec3486cb2874842faa.jpg",
+    "static/media/gujrati.jpg": "/madov1/static/media/gujrati.c480956755407ab9a01f.jpg",
+    "static/media/idli.jpg": "/madov1/static/media/idli.422787a8d03585205aca.jpg",
+    "static/media/masala.jpg": "/madov1/static/media/masala.c9164344ab7f141a0042.jpg",
+    "static/media/dosa.jpg": "/madov1/static/media/dosa.87bd68728dc5393ce04f.jpg",
+    "static/media/paneer.jpg": "/madov1/static/media/paneer.009ac9983c856c1cf739.jpg",
+    "static/media/logo-white.svg": "/madov1/static/media/logo-white.21c41679cfaf175952fd99d561797fdf.svg",
+    "index.html": "/madov1/index.html",
+    "main.c42134e0.css.map": "/madov1/static/css/main.c42134e0.css.map",
+    "main.4c35f577.js.map": "/madov1/static/js/main.4c35f577.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c42134e0.css",
+    "static/js/main.4c35f577.js"
+  ]
+}
